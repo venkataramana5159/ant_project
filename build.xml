@@ -1,0 +1,7 @@
+<project name="irctc" default="compile" basedir=".">
+
+<target name="compile">
+<echo>this is my first ant project</echo>
+
+</target>
+</project>
